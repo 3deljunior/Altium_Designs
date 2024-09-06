@@ -1,0 +1,57 @@
+PCAD Importer Log
+Project : MURATA_GRM3195C2A104GA01D.LibPkg
+
+Section : C:\Users\ayman\Desktop\PCB_ABO_ELfotoh\Altium_Projects\PowerSupply1\PCB_Project\Lib\cacap\MURATA_GRM3195C2A104GA01D.lia
+    Section : PCB Library - MURATA_GRM3195C2A104GA01D.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MURATA_GRM3195C2A104GA01D_0_0 On Line 303
+            Warning - 1 : Skipping Token attachedSymbol On Line 351
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - MURATA_GRM3195C2A104GA01D.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 45
+            Warning - 1 : Skipping Token multiLayer On Line 120
+            Warning - 1 : Skipping Token layerContents On Line 124
+            Warning - 1 : Skipping Token layerContents On Line 130
+            Warning - 1 : Skipping Token layerContents On Line 136
+            Warning - 1 : Skipping Token layerContents On Line 142
+            Warning - 1 : Skipping Token layerContents On Line 146
+            Warning - 1 : Skipping Token layerContents On Line 153
+            Warning - 1 : Skipping Token multiLayer On Line 167
+            Warning - 1 : Skipping Token layerContents On Line 171
+            Warning - 1 : Skipping Token layerContents On Line 177
+            Warning - 1 : Skipping Token layerContents On Line 183
+            Warning - 1 : Skipping Token layerContents On Line 189
+            Warning - 1 : Skipping Token layerContents On Line 193
+            Warning - 1 : Skipping Token layerContents On Line 200
+            Warning - 1 : Skipping Token multiLayer On Line 214
+            Warning - 1 : Skipping Token layerContents On Line 218
+            Warning - 1 : Skipping Token layerContents On Line 224
+            Warning - 1 : Skipping Token layerContents On Line 230
+            Warning - 1 : Skipping Token layerContents On Line 236
+            Warning - 1 : Skipping Token layerContents On Line 240
+            Warning - 1 : Skipping Token layerContents On Line 247
+            Warning - 1 : Skipping Token multiLayer On Line 261
+            Warning - 1 : Skipping Token layerContents On Line 265
+            Warning - 1 : Skipping Token layerContents On Line 271
+            Warning - 1 : Skipping Token layerContents On Line 277
+            Warning - 1 : Skipping Token layerContents On Line 283
+            Warning - 1 : Skipping Token layerContents On Line 287
+            Warning - 1 : Skipping Token layerContents On Line 294
+            Warning - 1 : Skipping Token isVisible On Line 328
+            Warning - 1 : Skipping Token isVisible On Line 329
+            Warning - 1 : Skipping Token isVisible On Line 330
+        EndSection
+
+        Section : Generating SCH Library - MURATA_GRM3195C2A104GA01D.SchLib
+        EndSection
+    EndSection
+EndSection
