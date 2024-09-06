@@ -20,3 +20,7 @@ This repository contains my recent PCB designs created using **Altium Designer**
 - **Schematics** (.SchDoc): Contains the schematic designs for each project.
 - **PCB Layouts** (.PcbDoc): PCB layout files designed using Altium.
 - **Bill of Materials (BOM)**: List of components used in each design.
+
+## Author
+
+[Youssef Adel](https://www.linkedin.com/in/youssef-adel-921ba624b/) - Undergraduated Embedded Systems Engineer.
